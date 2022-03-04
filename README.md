@@ -1,7 +1,5 @@
 # Hey there, I'm Molo :wave:
 
----
-
 - 👨‍💻 Tech and car enthusiast.
 - ☕ I'm learning JavaScript, Python, Discord bots and Some App and web development.
 - 🥅 2022 Goals: Make a simple and app and website.

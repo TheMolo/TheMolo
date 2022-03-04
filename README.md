@@ -16,6 +16,21 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TheMolo.TheMolo&left_color=blue&right_color=red)
 
+<details>
+<summary>
+More stuff about me!
+</summary>
+
+<br >
+
+I love to listen to music, My favourite Song right now is Zues by Eminem.
+
+I watch ⚽ My favourite team is FC Barcelona(They've been killing it xd)
+
+Also A Discord Moderator!
+
 #### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themolo&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>

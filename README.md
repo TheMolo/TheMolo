@@ -1,9 +1,9 @@
 # Hey there, I'm Molo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 👨‍💻 Tech and car enthusiast.
-- ☕ I'm learning JavaScript, Python, Discord bots and Some App and web development.
-- 🥅 2022 Goals: Make a simple app and website.
-- 🎮 I like to game on PC: Minecraft and MK8.
+- 👨‍💻 Upcoming Computer science and programming Major, Tech Enthusiast.
+- ☕ I'm learning JavaScript, Python, Discord bots and web development.
+- 🥅 2024 Goals: Make a Portfolio.
+- 🎮 Hobbies: Gaming, Music and reading books.
 
 ## Programs and tools for coding I use:
 
@@ -19,11 +19,11 @@ More stuff about me!
 
 <br >
 
-I love to listen to music, My favourite Song right now is Zues by Eminem.
+kendrick Lammar Cracks my top 5 artists.
 
-I watch ⚽ My favourite team is FC Barcelona(They've been killing it xd)
+I support Fc Barcelona :|
 
-Also A Discord Moderator!
+Middle Eastern Dev.
 
 #### Github Stats
 

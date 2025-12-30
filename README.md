@@ -27,6 +27,6 @@ Middle Eastern Dev.
 
 #### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themolo&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMolo)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
